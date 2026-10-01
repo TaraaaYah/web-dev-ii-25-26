@@ -1,0 +1,345 @@
+[
+  {
+    "id": "r1",
+    "name": "The Pure Low-Carb Meat & Chocolate Shake",
+    "category": "Shake",
+    "serves": "1",
+    "carbs": "4g",
+    "protein": "40g",
+    "fat": "32g",
+    "ingredients": [
+      "1 scoop chocolate protein or collagen",
+      "1 cup beef bone broth (cooled)",
+      "1 tbsp beef tallow or MCT oil",
+      "1 tbsp cacao powder",
+      "Pinch Celtic salt",
+      "Ice"
+    ],
+    "steps": [
+      "Add all ingredients to a blender.",
+      "Blend until smooth and fully combined.",
+      "Pour and serve immediately."
+    ],
+    "note": "A wellness-aligned protein shake built around collagen and bone broth."
+  },
+  {
+    "id": "r2",
+    "name": "Keto Bolognese with Konjac Spaghetti",
+    "category": "Keema",
+    "serves": "2",
+    "carbs": "6g",
+    "protein": "34g",
+    "fat": "26g",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 packet konjac spaghetti, rinsed",
+      "1/2 cup Grossman sauce (or sugar-free marinara)",
+      "1 tbsp beef tallow",
+      "1/2 cup diced onion",
+      "2 garlic cloves, minced",
+      "Celtic salt, to taste"
+    ],
+    "steps": [
+      "Melt tallow in a pan and saute onion and garlic until soft.",
+      "Add ground beef and brown fully.",
+      "Stir in sauce, simmer 10 minutes.",
+      "Rinse and warm konjac spaghetti separately, drain well.",
+      "Serve bolognese over the spaghetti."
+    ],
+    "note": ""
+  },
+  {
+    "id": "r3",
+    "name": "Keto Carrot Cake",
+    "category": "Desserts",
+    "serves": "12",
+    "carbs": "5g",
+    "protein": "",
+    "fat": "",
+    "ingredients": [
+      "Cake: 2 cups superfine blanched almond flour",
+      "Cake: 3 tbsp coconut flour",
+      "Cake: 3/4 cup brown sugar keto sweetener",
+      "Cake: 2 tsp baking powder",
+      "Cake: 2 tsp ground cinnamon",
+      "Cake: 1/2 tsp ground nutmeg",
+      "Cake: 4 large eggs, room temperature",
+      "Cake: 1/2 cup unsalted butter, melted",
+      "Cake: 1 tsp vanilla extract",
+      "Cake: 1 1/2 cups freshly grated carrots",
+      "Cake: 1/2 cup chopped pecans (optional)",
+      "Frosting: 8 oz cream cheese, softened",
+      "Frosting: 1/2 cup powdered keto sweetener",
+      "Frosting: 1/4 cup unsalted butter, softened",
+      "Frosting: 2 tbsp heavy cream",
+      "Frosting: 1 tsp vanilla extract"
+    ],
+    "steps": [
+      "Preheat oven to 350F (175C). Line two 8-inch springform pans with parchment and grease the sides.",
+      "Whisk eggs, melted butter and vanilla until smooth.",
+      "Add almond flour, coconut flour, sweetener, baking powder, cinnamon and nutmeg; stir to a smooth batter.",
+      "Fold in freshly grated carrots and pecans (use freshly grated carrots, not pre-shredded).",
+      "Divide between pans and bake 25-30 min until a toothpick comes out clean.",
+      "Cool completely in the pans before removing - do not frost while warm.",
+      "Beat cream cheese, powdered sweetener, butter, heavy cream and vanilla until smooth and lump-free.",
+      "Frost between layers and on top, garnish with pecans, chill 30-60 min before slicing."
+    ],
+    "note": "Use a brown sugar keto substitute (Lakanto Golden or Swerve Brown) for best flavour and moisture. Refrigerates up to 5 days; freeze unfrosted slices up to 3 months."
+  },
+  {
+    "id": "r4",
+    "name": "Keto Cheesecake",
+    "category": "Desserts",
+    "serves": "12",
+    "carbs": "5g",
+    "protein": "",
+    "fat": "",
+    "ingredients": [
+      "Crust: 2 cups superfine blanched almond flour",
+      "Crust: 1/4 cup unsalted butter, melted",
+      "Crust: 3 tbsp powdered keto sweetener",
+      "Crust: 1 tsp vanilla extract",
+      "Crust: 1 pinch sea salt",
+      "Filling: 32 oz full-fat cream cheese, softened (4 blocks)",
+      "Filling: 1 cup powdered keto sweetener (Swerve / allulose)",
+      "Filling: 3 large eggs, room temperature",
+      "Filling: 1/4 cup sour cream or heavy cream",
+      "Filling: 2 tsp vanilla extract",
+      "Filling: 1 tbsp fresh lemon juice (optional)",
+      "Filling: 1 pinch sea salt"
+    ],
+    "steps": [
+      "Preheat oven to 325F (160C). Line the base of a 9-inch springform pan with parchment, grease the sides.",
+      "Stir almond flour, melted butter, powdered sweetener, vanilla and salt into coarse crumbs.",
+      "Press into base and 1 inch up the sides; chill 20 min (or pre-bake at 350F for 10 min).",
+      "Beat cream cheese until completely smooth and fluffy.",
+      "Add powdered sweetener, sour cream, vanilla, lemon juice and salt; mix on low until incorporated.",
+      "Add eggs one at a time on low speed - do not overmix, this causes cracks.",
+      "Pour filling over crust and bake 50-60 min until edges are set with a gentle wobble in the centre.",
+      "Turn off oven, crack the door, leave 30 min, then cool to room temperature before chilling 4-6 hrs (overnight best)."
+    ],
+    "note": "All filling ingredients must be at room temperature to avoid lumps. Refrigerates up to 5 days."
+  },
+  {
+    "id": "r5",
+    "name": "Keto Chocolate Cake",
+    "category": "Desserts",
+    "serves": "12",
+    "carbs": "3g",
+    "protein": "",
+    "fat": "",
+    "ingredients": [
+      "Cake: 2 cups superfine blanched almond flour",
+      "Cake: 1/2 cup unsweetened cocoa powder (natural, not Dutch-process)",
+      "Cake: 3/4 cup granulated keto sweetener (allulose or monk fruit blend)",
+      "Cake: 1 1/2 tsp baking powder",
+      "Cake: 1/2 tsp baking soda",
+      "Cake: 1/4 tsp sea salt",
+      "Cake: 4 large eggs, room temperature",
+      "Cake: 1/2 cup unsalted butter, softened",
+      "Cake: 1/4 cup sour cream",
+      "Cake: 2 tsp vanilla extract",
+      "Cake: 1/4 cup hot water or brewed coffee",
+      "Frosting: 1/2 cup unsalted butter, softened",
+      "Frosting: 1/2 cup unsweetened cocoa powder, sifted",
+      "Frosting: 1 cup powdered keto sweetener",
+      "Frosting: 3 tbsp heavy cream",
+      "Frosting: 1 tsp vanilla extract",
+      "Frosting: 1 pinch sea salt"
+    ],
+    "steps": [
+      "Preheat oven to 350F (175C). Grease two 9-inch round pans, line bottoms with parchment.",
+      "Make the frosting first: beat butter until fluffy, add cocoa, sweetener, cream, vanilla and salt, beat smooth; set aside.",
+      "Beat softened butter and sweetener until pale and fluffy. Add eggs one at a time, then vanilla and sour cream.",
+      "Sift in almond flour, cocoa, baking powder, baking soda and salt; mix on low until just combined.",
+      "Stir in hot water or coffee gently - the batter will be thick.",
+      "Bake 25-30 min until a toothpick comes out clean; check at 22 min as almond flour burns quickly.",
+      "Cool in pans 10 min, then on a wire rack at least 1 hour before frosting.",
+      "Frost between layers, top and sides. Chill 30-60 min for clean slices."
+    ],
+    "note": "Natural (non-alkalized) cocoa reacts with baking soda to help the rise. Hot coffee instead of water deepens the chocolate flavour without tasting of coffee."
+  },
+  {
+    "id": "r6",
+    "name": "Keto Coconut Cake",
+    "category": "Desserts",
+    "serves": "12",
+    "carbs": "3g",
+    "protein": "",
+    "fat": "",
+    "ingredients": [
+      "Cake: 2 cups superfine blanched almond flour",
+      "Cake: 3 tbsp coconut flour",
+      "Cake: 3/4 cup granulated keto sweetener (allulose or monk fruit blend)",
+      "Cake: 1 1/2 tsp baking powder",
+      "Cake: 1/4 tsp baking soda",
+      "Cake: 1/4 tsp sea salt",
+      "Cake: 4 large eggs, room temperature",
+      "Cake: 1/2 cup unsalted butter, softened",
+      "Cake: 1/4 cup sour cream",
+      "Cake: 1 tsp vanilla extract",
+      "Cake: 1 tsp coconut extract",
+      "Cake: 3/4 cup unsweetened shredded coconut",
+      "Frosting: 8 oz cream cheese, softened",
+      "Frosting: 1/2 cup unsalted butter, softened",
+      "Frosting: 1 cup powdered keto sweetener",
+      "Frosting: 3 tbsp heavy cream",
+      "Frosting: 1 tsp vanilla extract",
+      "Frosting: 1 tsp coconut extract",
+      "Frosting: 1/2 cup unsweetened shredded coconut (for topping, toasted)"
+    ],
+    "steps": [
+      "Preheat oven to 350F (175C). Grease two 8-inch pans, line bottoms with parchment, dust with almond flour.",
+      "Beat butter and sweetener until pale and fluffy. Add eggs one at a time, then sour cream, vanilla and coconut extract.",
+      "Add almond flour, coconut flour, baking powder, baking soda and salt; mix on low just until combined.",
+      "Fold in shredded coconut - the batter will be thick.",
+      "Divide between pans, bake 25-30 min until a toothpick comes out clean and edges are lightly golden.",
+      "Cool in pans 10 min, then on a wire rack at least 1 hour before frosting.",
+      "Beat cream cheese and butter smooth, add powdered sweetener, cream, vanilla and coconut extract; beat until fluffy.",
+      "Frost between layers, top and sides. Press toasted shredded coconut all over the outside. Chill 30-60 min."
+    ],
+    "note": "Toasting the coconut topping in a dry pan for 2-3 min transforms the flavour."
+  },
+  {
+    "id": "r7",
+    "name": "Keto Lemon Cake",
+    "category": "Desserts",
+    "serves": "12",
+    "carbs": "3g",
+    "protein": "",
+    "fat": "",
+    "ingredients": [
+      "Cake: 2 cups superfine blanched almond flour",
+      "Cake: 3 tbsp coconut flour",
+      "Cake: 3/4 cup granulated keto sweetener (allulose or monk fruit blend)",
+      "Cake: 1 1/2 tsp baking powder",
+      "Cake: 1/4 tsp sea salt",
+      "Cake: 4 large eggs, room temperature",
+      "Cake: 1/2 cup unsalted butter, softened",
+      "Cake: 1/4 cup sour cream",
+      "Cake: 3 tbsp fresh lemon juice (about 1 1/2 lemons)",
+      "Cake: 1 tbsp lemon zest (about 2 lemons)",
+      "Cake: 1 tsp vanilla extract",
+      "Cake: 1 tsp lemon extract",
+      "Frosting: 8 oz cream cheese, softened",
+      "Frosting: 1/4 cup unsalted butter, softened",
+      "Frosting: 1 cup powdered keto sweetener",
+      "Frosting: 2 tbsp fresh lemon juice",
+      "Frosting: 1 tsp lemon zest",
+      "Frosting: 1 tsp vanilla extract",
+      "Frosting: 1 pinch sea salt"
+    ],
+    "steps": [
+      "Preheat oven to 350F (175C). Grease two 8-inch pans and line bottoms with parchment.",
+      "Beat butter and sweetener until pale and fluffy. Add eggs one at a time.",
+      "Mix in sour cream, lemon juice, lemon zest, vanilla and lemon extract - a slightly curdled look is fine.",
+      "Add almond flour, coconut flour, baking powder and salt; mix on low until just combined.",
+      "Divide between pans, bake 25-30 min until a toothpick comes out clean and edges are lightly golden.",
+      "Cool in pans 10 min, then on a wire rack at least 1 hour before frosting.",
+      "Beat cream cheese and butter smooth. Add powdered sweetener, lemon juice, zest, vanilla and salt; beat until fluffy.",
+      "Frost between layers, top and sides. Garnish with lemon slices and zest. Chill 30-60 min before slicing."
+    ],
+    "note": "Use freshly squeezed lemon juice and freshly grated zest for the best brightness."
+  },
+  {
+    "id": "r8",
+    "name": "Sardine Scrambled Eggs",
+    "category": "Egg",
+    "serves": "1",
+    "carbs": "2g",
+    "protein": "32g",
+    "fat": "28g",
+    "ingredients": [
+      "3 large eggs",
+      "1 tin sardines in olive oil, drained",
+      "1 tbsp beef tallow or the sardine oil",
+      "Pinch Celtic salt",
+      "Cracked black pepper",
+      "Squeeze of lemon (optional)"
+    ],
+    "steps": [
+      "Whisk the eggs with a pinch of Celtic salt.",
+      "Melt tallow in a pan over medium-low heat.",
+      "Pour in the eggs and let them sit a few seconds before gently pushing curds from the edges to the centre.",
+      "When the eggs are just short of set, fold in the sardines to warm through - don't overmix or they'll break down too much.",
+      "Take off the heat while still glossy (they keep cooking), season with pepper and a squeeze of lemon."
+    ],
+    "note": "A quick, high-protein way to work sardines into the egg rotation."
+  },
+  {
+    "id": "r9",
+    "name": "Spinach & Cheese Scrambled Eggs",
+    "category": "Egg",
+    "serves": "1",
+    "carbs": "3g",
+    "protein": "24g",
+    "fat": "26g",
+    "ingredients": [
+      "3 large eggs",
+      "1 heaped cup fresh spinach, roughly chopped",
+      "1 tbsp beef tallow",
+      "1/4 cup grated cheese (cheddar or similar)",
+      "Pinch Celtic salt",
+      "Cracked black pepper"
+    ],
+    "steps": [
+      "Melt tallow in a pan over medium heat.",
+      "Add spinach and saute 1-2 minutes until just wilted, then push to one side of the pan.",
+      "Whisk eggs with salt and pour into the pan.",
+      "Scramble gently, folding the wilted spinach through as the eggs set.",
+      "Off the heat, fold in the grated cheese so it melts from residual warmth. Finish with pepper."
+    ],
+    "note": "Cook the spinach first so it doesn't water down the eggs."
+  },
+  {
+    "id": "r10",
+    "name": "Baked Eggs with Spinach and Sardines",
+    "category": "Egg",
+    "serves": "1",
+    "carbs": "3g",
+    "protein": "30g",
+    "fat": "24g",
+    "ingredients": [
+      "2 large eggs",
+      "1 tin sardines in olive oil, drained and roughly broken up",
+      "1 heaped cup fresh spinach",
+      "1 tbsp beef tallow",
+      "Pinch Celtic salt",
+      "Cracked black pepper",
+      "Pinch chilli flakes (optional)"
+    ],
+    "steps": [
+      "Preheat oven to 375F (190C).",
+      "Melt tallow in an oven-safe small pan or ramekin dish and wilt the spinach for 1-2 minutes.",
+      "Scatter the sardines over the spinach.",
+      "Crack the eggs on top, season with salt, pepper and chilli flakes if using.",
+      "Bake 10-12 minutes until whites are set and yolks are still soft. Serve straight from the dish."
+    ],
+    "note": "One-pan and mostly hands-off."
+  },
+  {
+    "id": "r11",
+    "name": "Creamy Spinach Scramble with Collagen",
+    "category": "Egg",
+    "serves": "1",
+    "carbs": "2g",
+    "protein": "26g",
+    "fat": "22g",
+    "ingredients": [
+      "3 large eggs",
+      "1 heaped cup fresh spinach, chopped",
+      "1 tbsp beef tallow",
+      "1 tbsp heavy cream or full-fat cream cheese",
+      "1 scoop unflavoured collagen",
+      "Pinch Celtic salt",
+      "Cracked black pepper"
+    ],
+    "steps": [
+      "Melt tallow in a pan over medium-low heat and wilt the spinach.",
+      "Whisk eggs with the cream and collagen until smooth.",
+      "Pour into the pan with the spinach and scramble slowly over low heat for the creamiest texture.",
+      "Season with Celtic salt and pepper, remove while still soft."
+    ],
+    "note": "Stirring collagen straight into the eggs is an easy way to fold it into the daily routine."
+  }
+]
